@@ -1,3 +1,3 @@
-module github.com/ggarciajr/parsemail
+module github.com/limard/parsemail
 
 go 1.13
